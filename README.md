@@ -1,6 +1,7 @@
 ### 👋 Hello there,
 
-- 🌱 I’m a Web Developer specializing in WordPress.
+- 🌱 I’m a **Web Developer** specializing in WordPress.
+- 🔭 I’m currently as **Lead Developer** at **XECREATORS IT SERVICES (PRIVATE) LIMITED**.
 
 <!--
 **zohaib87/zohaib87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
