@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hello there,
+
+- 🌱 I’m a Web Developer specializing in WordPress.
 
 <!--
 **zohaib87/zohaib87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
