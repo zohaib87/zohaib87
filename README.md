@@ -3,13 +3,13 @@
 - 🌱 I’m a **Web Developer** specializing in WordPress.
 - 🔭 I’m currently working as **Lead Developer** at **XECREATORS IT SERVICES (PRIVATE) LIMITED**.
 
-## GitHub Stats
+## ⚡ GitHub Stats
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <thead>
         <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=zohaib87&show_icons=true&locale=en&theme=tokyonight" alt="Zohaib's GitHub Stats" />               </td>
-            <td><img src="https://streak-stats.demolab.com/?user=zohaib87&theme=tokyonight" alt="Zohaib's GitHub Stats" /></td>
+            <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zohaib87&show_icons=true&locale=en&theme=tokyonight" alt="Zohaib's GitHub Stats"></td>
+            <td><img src="https://streak-stats.demolab.com/?user=zohaib87&theme=tokyonight" alt="Zohaib's GitHub Stats"></td>
         </tr>
     </thead>
 </table>
