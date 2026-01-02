@@ -1,6 +1,6 @@
 ## 👋 Hello there,
 
-- 🌱 I’m a **Web Artisan** specializing in WordPress.
+- 🌱 I’m a **Full-stack PHP Developer** specializing in WordPress.
 - 🔭 I’m currently working as **Lead Developer** at **XECREATORS IT SERVICES (PRIVATE) LIMITED**.
 
 <!--
