@@ -1,7 +1,7 @@
 ## 👋 Hello there,
 
 - 🌱 I’m a **Full-Stack PHP Developer** specializing in WordPress.
-- 🔭 I’m currently working as **Senior Full-Stack PHP Developer** at **XECREATORS IT SERVICES (PRIVATE) LIMITED**.
+- 🔭 I’m currently working as **Senior WordPress Developer** at **XECREATORS IT SERVICES (PRIVATE) LIMITED**.
 
 <!--
 **zohaib87/zohaib87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
